@@ -2,18 +2,9 @@
 
 ## 写在前面：
 + 408的四门科目的知识点总结，内容排版上结合CS408课本和王道计算机，并结合了作者完成王道课后题时所踩的坑的总结（在文件里特别标出）
-   
-  
-## NOTE：  
-+ 不适合在XMind里表达的内容，全部写在了同文件夹里的`*.md`文件或是`*.cpp`文件；
-
-+ **务必重点关注文件夹里的`*.md`文件**
-  
-+ 在Markdown文件中使用了latex代码，请确保你的Markdown编辑器支持latex扩展以提高阅读体验
 
 > 或许你也可以参考[这个项目](https://github.com/SSHeRun/CS-Xmind-Note)
  
-![立即推.jpg](https://i.loli.net/2020/09/17/NQVePmIOlBcYsKG.jpg)
   
 ---
 
@@ -49,10 +40,3 @@
 + [x] 第三章 内存管理
 + [x] 第四章 文件管理
 + [x] 第五章 IO管理
-
-  
-## 网络安全基础与应用 
-+ [x] [第一章 概论](https://github.com/Alice-and-Bob/CS408/blob/master/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%BA%94%E7%94%A8/1%E3%80%81%E6%A6%82%E8%AE%BA.xmind)
-+ [x] [第二章 密码学](https://github.com/Alice-and-Bob/CS408/blob/master/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%BA%94%E7%94%A8/2%E3%80%81%E5%AF%86%E7%A0%81%E5%AD%A6.xmind)
-+ [x] [第三章 应用安全](https://github.com/Alice-and-Bob/CS408/blob/master/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%BA%94%E7%94%A8/3%E3%80%81%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8.xmind)
-+ [ ] 第四章 系统安全
